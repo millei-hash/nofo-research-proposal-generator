@@ -1,0 +1,11 @@
+numpy==1.26.4
+langchain==0.3.26
+langchain-core==0.3.68
+langchain-community==0.3.20
+langchain-openai==0.3.27
+pypdf==5.4.0
+faiss-cpu==1.8.0
+markdown-pdf==1.7
+sentence-transformers==3.1.1
+transformers==4.50.0
+tiktoken

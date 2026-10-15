@@ -1,0 +1,9 @@
+config.json
+.env
+data/
+faiss_index/
+Papers/
+Project Files/
+*.pdf
+.ipynb_checkpoints/
+__pycache__/
